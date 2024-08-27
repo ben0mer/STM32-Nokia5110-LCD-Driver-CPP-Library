@@ -14,7 +14,7 @@ This repository contains a C++ library for controlling a Nokia 5110 84x48 LCD di
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ben0mer/ProjectName.git
+    git clone git@github.com:ben0mer/STM32-Nokia5110-LCD-Driver-CPP-Library.git
     ```
 
 2. Include the necessary files in your project:
@@ -44,7 +44,11 @@ This repository contains a C++ library for controlling a Nokia 5110 84x48 LCD di
     ```
 
 4. You can check the `Project/projectMain.cpp` file for more example and for my GUI example.
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ben0mer/STM32-Nokia5110-LCD-Driver-CPP-Library/blob/df9b43dbaa6ec5529f6b3a5275f12306ad6b6d51/images/gui1.jpeg" alt="GUI 1" width="300">
+  <img src="https://github.com/ben0mer/STM32-Nokia5110-LCD-Driver-CPP-Library/blob/df9b43dbaa6ec5529f6b3a5275f12306ad6b6d51/images/gui2.jpeg" alt="GUI 2" width="300">
+  <img src="https://github.com/ben0mer/STM32-Nokia5110-LCD-Driver-CPP-Library/blob/df9b43dbaa6ec5529f6b3a5275f12306ad6b6d51/images/gui3.jpeg" alt="GUI 3" width="300">
+</div>
 
 ## API Reference
 
