@@ -83,5 +83,4 @@ This repository contains a C++ library for controlling a Nokia 5110 84x48 LCD di
   - Finds the affected rows on an LCD display based on the given y-coordinate and character height.
 
 
-
 Author: Ömer Gökyer
