@@ -1,0 +1,3 @@
+/home/arma/Masaüstü/STM32_Workspace/stm32-LcdDriver/build/debug/CMakeFiles/sample-f407vg.dir
+/home/arma/Masaüstü/STM32_Workspace/stm32-LcdDriver/build/debug/CMakeFiles/edit_cache.dir
+/home/arma/Masaüstü/STM32_Workspace/stm32-LcdDriver/build/debug/CMakeFiles/rebuild_cache.dir
